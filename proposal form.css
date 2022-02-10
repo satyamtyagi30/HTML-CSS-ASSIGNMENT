@@ -1,32 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@satyamtyagi30 
-Hamza-Ansari9897
-/
-Proposal-Form
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Proposal-Form/form.css
-@Hamza-Ansari9690
-Hamza-Ansari9690 first commit
-Latest commit 0be967a 5 days ago
- History
- 1 contributor
-595 lines (590 sloc)  10.4 KB
-   
-*{margin: 0; padding: 20px;font-family: 'Quintessential', cursive;
+
+  *{margin: 0; padding: 20px;font-family: 'Quintessential', cursive;
     font-family: 'Source Sans Pro', sans-serif;}
 .container{
     margin: 0;
@@ -621,15 +594,3 @@ span{
     margin-bottom: 0px;
     margin-left: 10px;
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
